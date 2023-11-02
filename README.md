@@ -1,7 +1,9 @@
 # Hello, I'm Sebastian! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-messingfeld-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://to.messeb.com/contact)](https://to.messeb.com/contact)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://to.messeb.com/twitter&style=flat-square&logo=X&logoColor=white&label=_messeb)](https://to.messeb.com/twitter)
+[![X (formerly Twitter) URL](https://img.shields.io/badge/-grey?style=flat-square&label=_messeb&logo=X&logoColor=white&link=https://to.messeb.com/twitter)](https://to.messeb.com/twitter)
+[![Strava](https://img.shields.io/badge/-messeb-orange?style=flat-square&logo=Strava&logoColor=white&link=https://to.messeb.com/strava)](https://to.messeb.com/strava)
+[![Instagram](https://img.shields.io/badge/-messeb-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://to.messeb.com/instagram)](https://to.messeb.com/instagram)
 
 
 ## About Me 🚀
